@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ncs.esptest"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ncs.esptest"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ncs.esptest"
+        },
+        "cordova-plugin-chrome-apps-sockets-tcpserver": {
+            "PACKAGE_NAME": "com.ncs.esptest"
+        },
+        "cordova-plugin-background-app": {
+            "PACKAGE_NAME": "com.ncs.esptest"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-chrome-apps-common": {
+            "PACKAGE_NAME": "com.ncs.esptest"
+        },
+        "cordova-plugin-chrome-apps-iossocketscommon": {
+            "PACKAGE_NAME": "com.ncs.esptest"
+        },
+        "cordova-plugin-chrome-apps-sockets-tcp": {
+            "PACKAGE_NAME": "com.ncs.esptest"
+        }
+    }
+}

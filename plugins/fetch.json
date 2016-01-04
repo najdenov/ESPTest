@@ -1,0 +1,66 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-device"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-console": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-console"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-chrome-apps-sockets-tcpserver": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-chrome-apps-sockets-tcpserver"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-chrome-apps-common": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-chrome-apps-common@1"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-chrome-apps-sockets-tcp": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-chrome-apps-sockets-tcp@1"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-chrome-apps-iossocketscommon": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-chrome-apps-iossocketscommon@1"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-background-app": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-background-app"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
